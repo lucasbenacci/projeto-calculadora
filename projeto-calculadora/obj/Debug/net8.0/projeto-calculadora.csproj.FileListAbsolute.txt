@@ -1,0 +1,11 @@
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.AssemblyInfoInputs.cache
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.AssemblyInfo.cs
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\bin\Debug\net8.0\projeto-calculadora.deps.json
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\bin\Debug\net8.0\projeto-calculadora.dll
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\bin\Debug\net8.0\projeto-calculadora.pdb
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.dll
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\refint\projeto-calculadora.dll
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.pdb
+C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\ref\projeto-calculadora.dll
