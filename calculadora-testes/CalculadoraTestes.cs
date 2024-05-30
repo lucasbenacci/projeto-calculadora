@@ -64,4 +64,17 @@ public class CalculadoraTestes
         
         Assert.Equal(result, resultCalc);
     }
+
+    [Fact]
+    public void TestarListas()
+    {
+        _calc.multiplication(5, 2);
+        _calc.multiplication(18, 6);
+        _calc.subtraction(56, 6);
+
+        var lista = _calc.historico();
+        
+        Assert.NotEmpty(lista);
+        Assert.Equal(3, lista.Count);
+    }
 }

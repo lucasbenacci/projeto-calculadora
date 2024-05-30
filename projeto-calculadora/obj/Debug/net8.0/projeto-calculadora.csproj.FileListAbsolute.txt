@@ -9,3 +9,15 @@ C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\D
 C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\refint\projeto-calculadora.dll
 C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.pdb
 C:\Users\lucas.souza\RiderProjects\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\ref\projeto-calculadora.dll
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.dll
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\refint\projeto-calculadora.dll
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.pdb
+C:\Dev\projeto-calculadora\projeto-calculadora\bin\Debug\net8.0\projeto-calculadora.deps.json
+C:\Dev\projeto-calculadora\projeto-calculadora\bin\Debug\net8.0\projeto-calculadora.dll
+C:\Dev\projeto-calculadora\projeto-calculadora\bin\Debug\net8.0\projeto-calculadora.pdb
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.AssemblyInfoInputs.cache
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.AssemblyInfo.cs
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.csproj.CoreCompileInputs.cache
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\projeto-calculadora.sourcelink.json
+C:\Dev\projeto-calculadora\projeto-calculadora\obj\Debug\net8.0\ref\projeto-calculadora.dll
